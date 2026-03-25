@@ -3,29 +3,21 @@ An app that helps to locate public and accessible bathrooms for users in differe
 
 ## Target Users
 People searching for a bathroom.
-
-## Features
-- Accessible Map of Paris showing possible bathrooms nearby.
-- View all bathrooms in a list.
-- View a specific bathroom and its rating.
-- Get directions to the bathroom selected.
-- Display bathroom availability (open, closed).
-- Display Key Features (Wheelchair Accessible, Free, Baby Changing).
-- Provide a saved folder for bathrooms saved my users.
   
 ## Features
 
 ### Must Have
-- Feature 1: [description]
-- Feature 2: [description]
-- Feature 3: [description]
+- Feature 1: Display Key Features (Wheelchair Accessible, Free, Baby Changing).
+- Feature 2: Display bathroom availability (open, closed).
+- Feature 3: Accessible Map of Paris showing possible bathrooms nearby.
 
 ### Should Have
-- Feature 4: [description]
-- Feature 5: [description]
+- Feature 4: View a specific bathroom and its rating.
+- Feature 5: Get directions to the bathroom selected.
+- Feature 6: View all bathrooms in a list.
 
 ### Could Have
-- Feature 6: [description]
+- Feature 7: Provide a saved folder for bathrooms saved by users.
 
 ## Data Model
 [What data does the app store? List the main entities and their key fields.]
