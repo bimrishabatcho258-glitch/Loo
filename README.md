@@ -30,7 +30,7 @@ People searching for a bathroom.
 - Deployed on Vercel
 
 ## Design
-[Figma link will go here]
+https://www.figma.com/design/jYUxFjMLMHgTRoI55jbqOO/LOO-final?t=MGBQvDTfsjG63Zqk-1
 
 ## Live Demo
 [Vercel URL will go here]
