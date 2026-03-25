@@ -1,9 +1,18 @@
 # Loo
 An app that helps to locate public and accessible bathrooms for users in different cities
 
-## Target User
-[Who will use this app? Be specific about their needs and pain points.]
+## Target Users
+People searching for a bathroom.
 
+## Features
+- Accessible Map of Paris showing possible bathrooms nearby.
+- View all bathrooms in a list.
+- View a specific bathroom and its rating.
+- Get directions to the bathroom selected.
+- Display bathroom availability (open, closed).
+- Display Key Features (Wheelchair Accessible, Free, Baby Changing).
+- Provide a saved folder for bathrooms saved my users.
+  
 ## Features
 
 ### Must Have
