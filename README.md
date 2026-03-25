@@ -20,11 +20,8 @@ People searching for a bathroom.
 - Feature 7: Provide a saved folder for bathrooms saved by users.
 
 ## Data Model
-[What data does the app store? List the main entities and their key fields.]
-
-Example:
-- **Recipe**: title, ingredients (list), steps (list), prep time, category
-- **User**: name, email, saved recipes (list)
+- **Location**: Directions, Proximity
+- **User**: name, email, saved bathrooms, ratings
 
 ## Tech Stack
 - Next.js 14 (App Router)
